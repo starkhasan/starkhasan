@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Hasan
-- 👀 I’m interested in Learning new stuff
-- 🌱 I’m currently Android, Flutter
+- 👀 I’m interested in getting new concept about DSA and App Development.
+- 🌱 I’m currently Studying about Android and Flutter app development.
 - 💞️ I’m looking to collaborate on Flutter Project
 - 📫 How to reach me https://github.com/starkhasan
 
